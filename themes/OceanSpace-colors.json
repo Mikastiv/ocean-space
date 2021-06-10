@@ -4,7 +4,7 @@
     "type": "dark",
     "colors": {
         // Contrast Colors
-        "contrastBorder": "#014b40f1",
+        "contrastBorder": "#282d44",
         // Base Colors
         "focusBorder": "#0B0D14",
         "foreground": "#D5CED9",
@@ -60,7 +60,7 @@
         "editorGroup.emptyBackground": "#0F111A",
         "editorGroup.dropBackground": "#495061D7",
         "editorGroupHeader.tabsBackground": "#0F111A",
-        "tab.border": "#0B0D14",
+        "tab.border": "#282d44",
         "tab.activeBackground": "#0F111A",
         "tab.inactiveBackground": "#0B0D14",
         "tab.activeForeground": "#FFFFFF",
@@ -123,8 +123,8 @@
         "merge.incomingContentBackground": "#3B79C740",
         // Panel Colors
         "panel.background": "#0F111A",
-        "panel.border": "#014b40f1",
-        "panelTitle.activeBorder": "#00e8c5B0",
+        "panel.border": "#282d44",
+        "panelTitle.activeBorder": "#282d44",
         "panelTitle.inactiveForeground": "#746F77",
         // Status Bar Colors
         "statusBar.background": "#0F111A",
@@ -132,7 +132,7 @@
         "statusBar.noFolderBackground": "#0F111A",
         "statusBarItem.activeBackground": "#00E8C5",
         "statusBarItem.hoverBackground": "#07D4B5B0",
-        "statusBarItem.prominentBackground": "#00e8c5B0",
+        "statusBarItem.prominentBackground": "#282d44",
         "statusBarItem.prominentHoverBackground": "#07d4b6A0",
         // Title Bar Colors (macOS)
         "titleBar.activeBackground": "#0F111A",
@@ -143,7 +143,7 @@
         "notificationsWarningIcon.foreground": "#FF9F2E",
         "notificationsInfoIcon.foreground": "#00b0ff",
         // Extensions
-        "extensionButton.prominentBackground": "#00e8c5B0",
+        "extensionButton.prominentBackground": "#282d44",
         "extensionButton.prominentHoverBackground": "#07d4b6A0",
         // Quick Picker
         "pickerGroup.border": "#4F4355",
